@@ -1,19 +1,32 @@
 # Jobs
-# Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
-  position: Safety Inspector
-  duration: Nov, 1980 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+# Thompson Reuters
+- company: Thompson Reuters
+  position: Desktop Support Technician
+  duration: Mar, 2017 &mdash; Present
+  summary: Identified, diagnosed, and resolved internal user problems via phone, web, and remote sessions. Used ServiceNow ticketing software to track requests, document changes/solutions and resolve issues. Engaged a variety of support teams internally and externally to escalate and/or direct internal users calls for a timely problem resolution. Setup and Configured Cisco IP phones as well as Polycom conference phones. Assisting with the on-boarding process by configuring computers, creating accounts, and assisting users.
 
-# Windmill Crank Operator
-- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-  position: Safety Inspector
-  duration:  Jun, 1978 &mdash; Sept, 1979
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# IDEO
+- company: IDEO
+  position: Desktop Support Analyst
+  duration:  Feb, 2017 &mdash; March, 2017
+  summary: Worked closely with IDEO IT to resolve complex problems. Provided detailed descriptions of issues in Zendesk and followed up diligently to ensure swift resolutions to all incoming work orders. Updated and maintained inventory including but not limited to laptops, peripherals, and cell phones. Assisted users with setting up video conferencing solutions such as Polycom, Zoom, and Cisco WebEx. 
 
 
-# Front Desk Attendant
-- company: Simpson Lazer Tag
-  position: Front Desk Attendant
-  duration:   Jun, 1975  &mdash; May, 1978
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+
+# Santaluces Tech
+- company: Santaluces Community High School
+  position: Senior Desktop Support
+  duration:   May, 2012  &mdash; Jan, 2017
+  summary: Maintains hardware and software of over 1000 computers for over 2000 teachers, staff, and students. Assists with all technical related questions and problems. Coordinates the deployment of new technology integration into the school. Teaches the PC Support classes and manages them to accomplish technical projects and tasks. Ensures all computers are configured and ready for Computer Based Testing.
+
+# Santaluces AV
+- company: Santaluces Community High School
+  position: Audio Visual Technican
+  duration:   May, 2012  &mdash; Jan, 2017
+  summary: Maintained auditorium, making sure all equipment was in working order, and consumables were ordered and in stock. Configured stage for different shows. Ran lights and sound for both community and school based shows. 
+
+  # Freedom Shores
+- company: Freedom Shores Elementary School
+  position: Technology Support Assistant
+  duration:   July, 2007  &mdash; May, 2012
+  summary: Assists teachers with Professional Development to ensure they have access to the skills and tools to use new technology in the classroom.
