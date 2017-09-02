@@ -38,7 +38,7 @@ resume_section_recognition:     true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jnichols35/resume
+  resume_github_url:            "https://github.com/jnichols35/resume"
   resume_twitter_url:           "http://twitter.com/jakenichols35"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
